@@ -1,3 +1,3 @@
 # SAPUIProject
 
-SAP UI5 Projetc
+SAP UI5 Demo Project 
